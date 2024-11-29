@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "knopka_2"
 include(":app")
+ 
